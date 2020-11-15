@@ -4,3 +4,6 @@ aditya
 - anjing
 - babi
 - babiiiiiiiiiiiiii kaoooooo
+- view 
+laravel
+pyhton
